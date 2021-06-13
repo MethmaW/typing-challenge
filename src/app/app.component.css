@@ -1,0 +1,17 @@
+.container {
+	margin-top: 5%;
+}
+
+.pending {
+	color: grey;
+}
+
+.correct {
+	color: green;
+	font-weight: bold;
+}
+
+.incorrect {
+	color: red;
+	font-weight: bold;
+}
